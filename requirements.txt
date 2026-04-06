@@ -1,2 +1,3 @@
 aiogram
 googlesearch-python
+aiohttp
